@@ -1,6 +1,6 @@
 <h2 align="center">⌚⏲ANALOG CLOCK⌚⏲</h2>
 <h1 align="center">
-<img width="250px" src="./assets/images/dark-clock.png">
+<img src="./assets/images/cut-analog-clock.gif">
 </h1>
 
 

@@ -1,0 +1,14 @@
+@media (max-width: 800px) {
+   .clock {
+      width: 350px;
+      height: 350px;
+   }
+   
+   .clock .hour, .hr {height: 140px;}
+   .clock .min, .mn {height: 190px;}
+   .clock .sec, .sc {height: 235px;}
+   .hr::before {height: 90px;}
+   .mn::before {height: 110px;}
+   .sc::before {height: 140px;}
+   .toggleClass {right: 110px;}
+}
