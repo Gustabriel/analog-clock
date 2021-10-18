@@ -7,6 +7,7 @@
    .clock .hour, .hr {height: 140px;}
    .clock .min, .mn {height: 190px;}
    .clock .sec, .sc {height: 235px;}
+   
    .hr::before {height: 90px;}
    .mn::before {height: 110px;}
    .sc::before {height: 140px;}
