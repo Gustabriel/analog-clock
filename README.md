@@ -1,4 +1,4 @@
-<h2 align="center">⌚⏲ANALOG CLOCK⌚⏲</h2>
+<h2 align="center">⌚⏲ANALOG CLOCK⏲⌚</h2>
 <h1 align="center">
 <img src="./assets/images/cut-analog-clock.gif">
 </h1>
